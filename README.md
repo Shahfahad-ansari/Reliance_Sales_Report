@@ -1,3 +1,5 @@
+# Reliance Sales Report Using PowerBI
+
 ### Objective  
 This project aims to analyze and derive insights from Reliance's sales data, providing actionable information for stakeholders to enhance decision-making and improve overall performance. The dashboard highlights key sales metrics, helping the team track performance trends, identify areas for growth, and optimize strategies.
 
